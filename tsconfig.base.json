@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@lookbook/core": ["libs/core/src/index.ts"],
+      "@lookbook/shared/emotion": ["libs/shared/emotion/src/index.ts"],
+      "@lookbook/shared/interfaces": ["libs/shared/interfaces/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
