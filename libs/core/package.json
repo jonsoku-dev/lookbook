@@ -1,4 +1,19 @@
 {
   "name": "@lookbook/core",
-  "version": "0.0.1"
+  "version": "0.0.0",
+  "description": "Lookbook test :)",
+  "author": "jongseok.lee <whdtjr2792@gmail.com.com> (http://example.com)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16",
+    "npm": ">=8"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonsoku2/lookbook.git",
+    "directory": "libs/core"
+  }
 }

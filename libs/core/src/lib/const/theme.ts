@@ -578,12 +578,8 @@ export const colors = {
   yellowP300: yellows[14],
 };
 
-export type LookBookThemeColor = keyof typeof colors;
-
-const primary = {
+export const defaultTheme = {
   fontSizes,
   space,
   colors: { ...colors },
 };
-
-export default primary;

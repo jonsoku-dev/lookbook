@@ -23,7 +23,7 @@ import {
 } from 'styled-system';
 import { HTMLAttributes } from 'react';
 import type * as CSS from 'csstype';
-import { ThemeColor } from '@lookbook/shared/interfaces';
+import { ThemeColor } from '../interface/shared-interfaces';
 
 type BaseProps = HTMLAttributes<any>;
 

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { colors } from '@lookbook/shared/emotion';
+import { colors } from '../const/theme';
 
 export interface StandardProps {
   className?: string;
@@ -21,6 +21,7 @@ export type MergeElementProps<
 
 export type HorizontalPosition = 'top' | 'bottom';
 export type VerticalPosition = 'left' | 'right';
+
 export type Size = 'XXL' | 'XL' | 'L' | 'M' | 'S' | 'XS' | 'XXS';
 export type FontSize = Size;
 export type FontWeight = 'regular' | 'bold' | 'heavy';

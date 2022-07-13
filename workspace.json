@@ -5,8 +5,6 @@
     "core": "libs/core",
     "core-e2e": "apps/core-e2e",
     "playground": "apps/playground",
-    "playground-e2e": "apps/playground-e2e",
-    "shared-emotion": "libs/shared/emotion",
-    "shared-interfaces": "libs/shared/interfaces"
+    "playground-e2e": "apps/playground-e2e"
   }
 }

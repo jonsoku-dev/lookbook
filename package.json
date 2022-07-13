@@ -32,6 +32,7 @@
     "@nrwl/cypress": "14.4.2",
     "@nrwl/eslint-plugin-nx": "14.4.2",
     "@nrwl/jest": "14.4.2",
+    "@nrwl/js": "14.4.2",
     "@nrwl/linter": "14.4.2",
     "@nrwl/react": "14.4.2",
     "@nrwl/storybook": "^14.4.2",
